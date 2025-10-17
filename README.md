@@ -14,14 +14,14 @@ It focuses on dynamic visuals, real-time interaction, and intelligent recommenda
 
 ### 🎶 Key Features
 
-- **3D Visual Music Player Interface** — Built with *Three.js* for real-time, immersive visuals  
-- **EDM Music Library** — Organized by genre *(House, Techno, Trance, Dubstep, etc.)*, BPM, and release date  
-- **Music Playback Controls** — Play, pause, progress bar, and volume adjustment  
-- **User Likes & Collections** — Builds personal preference data  
-- **Intelligent Recommendation System** — Suggests new tracks based on user behavior  
-- **Adoption Rate Tracking** — Monitors how often users accept recommendations  
-- **Dynamic Algorithm Adjustment** — Optimizes suggestions based on user response  
-- **Audio Spectrum Visualization** — Vibrant, audio-reactive frequency effects  
+- 3D Visual Music Player Interface — Built with *Three.js* for real-time, immersive visuals  
+- EDM Music Library — Organized by genre *(House, Techno, Trance, Dubstep, etc.)*, BPM, and release date  
+- Music Playback Controls — Play, pause, progress bar, and volume adjustment  
+- User Likes & Collections — Builds personal preference data  
+- Intelligent Recommendation System — Suggests new tracks based on user behavior  
+- Adoption Rate Tracking — Monitors how often users accept recommendations  
+- Dynamic Algorithm Adjustment — Optimizes suggestions based on user response  
+- Audio Spectrum Visualization — Vibrant, audio-reactive frequency effects  
 
 
 
@@ -63,8 +63,8 @@ It focuses on dynamic visuals, real-time interaction, and intelligent recommenda
 To create a **visually immersive and intelligently adaptive EDM platform**  
 where music lovers not only listen — they *see* and *feel* the rhythm.
 
+
 ---
 
-### 🎧 Project Status
 
 Project under active development — **stay tuned for upcoming releases and live demos!**
