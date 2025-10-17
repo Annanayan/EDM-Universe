@@ -3,14 +3,14 @@
 **Empowering immersive music experiences through AI and 3D visualization.**  
 A web-based EDM music player that combines **3D interactive visuals**, **intelligent recommendations**, and **adaptive learning algorithms** to create a next-generation listening experience.
 
----
+
 
 ### 🎧 Overview
 
 This project aims to deliver a fully immersive EDM experience through **Three.js 3D visualization** and **AI-driven personalization**.  
 It focuses on dynamic visuals, real-time interaction, and intelligent recommendations that continuously adapt to user preferences.
 
----
+
 
 ### 🎶 Key Features
 
@@ -23,7 +23,7 @@ It focuses on dynamic visuals, real-time interaction, and intelligent recommenda
 - **Dynamic Algorithm Adjustment** — Optimizes suggestions based on user response  
 - **Audio Spectrum Visualization** — Vibrant, audio-reactive frequency effects  
 
----
+
 
 ### 🎚️ Current State
 
@@ -39,7 +39,7 @@ It focuses on dynamic visuals, real-time interaction, and intelligent recommenda
 - Recommendations reset after refresh  
 - No real user accounts yet  
 
----
+
 
 ### 🥁 Next Steps
 
@@ -49,14 +49,14 @@ It focuses on dynamic visuals, real-time interaction, and intelligent recommenda
 - Expand adaptive recommendation algorithms  
 - Add account and social interaction features  
 
----
+
 
 ### 🎵 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Three.js, Web Audio API  
 - **Future Integrations:** Node.js, Firebase / Supabase, ML-based recommendation engine  
 
----
+
 
 ### 🎶 Vision
 
